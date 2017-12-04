@@ -1,4 +1,4 @@
-#include <iostream>
+#include <iostream> pewnie_sie_popsuje
 #include <math.h>
 #include <windows.h>
 using namespace std;
