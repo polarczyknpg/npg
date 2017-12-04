@@ -3,7 +3,7 @@
 #include <windows.h>
 using namespace std;
 
-int main()
+int main()abcdefgh
 {
     int liczba1, liczba2, pierwiastek1, pierwiastek2;
     cout << "Podaj pierwsza liczbe: ";
