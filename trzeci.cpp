@@ -1,5 +1,5 @@
 #include <iostream>
-#include <math.h>
+#include <math.h> tapratata
 #include <windows.h>
 using namespace std;
 
